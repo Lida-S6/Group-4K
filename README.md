@@ -4,7 +4,7 @@ This repository contains the appendix section for our Usability Evaluation Repor
 The data here include the interview questions, along with the transcripts that contain the participant responses, that were collected after interacting with the Figma prototype.
 
 ### Alternative format
-All interview transcripts can be also be accessed as a Word document for ease of viewing:
+All interview transcripts can be also be accessed as a Google Doc for ease of viewing: [View Full transcripts](https://docs.google.com/document/d/1NjvaOZ2wMrnO6ccfo_JE6TMOsEs9b4hPBkPl4i5Srn4/edit?usp=sharing)
 
 # Interview Procedure
 **The following introduction was provided to all participants at the start of the interview:**
