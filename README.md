@@ -1,6 +1,6 @@
 ## Group - 4K Appendices
 
-This repository contains the appendix section for our Usability Evaluation Report, and provides evidence of the evaluation process.
+This repository contains a part of the appendix section for our Usability Evaluation Report, and provides evidence of the evaluation process.
 The data here include the interview questions, along with the transcripts that contain the participant responses, that were collected after interacting with the Figma prototype.
 
 ### Alternative format
